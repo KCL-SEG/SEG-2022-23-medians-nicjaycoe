@@ -1,10 +1,10 @@
 """Median calculator."""
 """ENTER YOUR SOLUTION HERE!"""
-if len(list) % 2 == 0
+if len(list) % 2 == 0:
     //method 1
     temp = len(list) / (len(list) + 1)
     print(list[temp))
-else
+else:
     print(list[len(list) + 1])
 
 while True:
