@@ -4,9 +4,9 @@ a = list()
 
 if len(a)%2==0:
     temp=len(a)/(len(a)+1)
-    print(a[temp])
+    print(list[temp])
 else:
-    print(a[len(a)+1])
+    print(list[len(a)+1])
 
 while True:
     try:
