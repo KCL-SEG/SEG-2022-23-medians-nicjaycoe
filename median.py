@@ -1,10 +1,12 @@
 """Median calculator."""
 """ENTER YOUR SOLUTION HERE!"""
-if len(list)%2==0:
-    temp=len(list)/(len(list)+1)
-    print(list[temp])
+a = list()
+
+if len(a)%2==0:
+    temp=len(a)/(len(a)+1)
+    print(a[temp])
 else:
-    print(list[len(list)+1])
+    print(a[len(a)+1])
 
 while True:
     try:
