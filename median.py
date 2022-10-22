@@ -2,7 +2,7 @@
 """ENTER YOUR SOLUTION HERE!"""
 if len(list) % 2 == 0:
     temp = len(list) / (len(list) + 1)
-    print(list[temp))
+    print(list[temp])
 else:
     print(list[len(list) + 1])
 
